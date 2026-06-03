@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SoloTec – Simulador do Aplicativo</title>
+    <link rel="stylesheet" href="simulador.css">
+</head>
+<body>
+
+    <button class="btn-tema" id="btnTema">ESCURO</button>
+
+    <div class="container">
+        
+        <div class="header">
+            <h1>Simulador <span class="destaque">SoloTec</span></h1>
+            <p>Veja como funciona o nosso aplicativo na prática</p>
+        </div>
+
+        <div class="explicacao">
+            <h2>Como funciona a nossa ideia?</h2>
+            <p>O <strong>SoloTec</strong> é um sistema de irrigação inteligente que ajuda o produtor rural a economizar água e aumentar a produtividade da sua lavoura.</p>
+            
+            <h3>O que o aplicativo faz?</h3>
+            <ul>
+                <li>Monitora a umidade do solo em tempo real</li>
+                <li>Mostra gráficos coloridos (verde, amarelo, vermelho)</li>
+                <li>Irriga automaticamente quando necessário</li>
+                <li>Permite agendar a irrigação</li>
+                <li>Gera histórico completo das irrigações</li>
+                <li>Envia alertas para o celular</li>
+            </ul>
+
+            <h3>Por que isso é importante?</h3>
+            <p>Com o Solo<span class="destaque">Tec</span>, o produtor pode economizar até 40% de água, reduzir o trabalho manual e aumentar a produtividade da lavoura, tudo isso controlando pelo smartphone de qualquer lugar.</p>
+        </div>
+
+        <div class="simulador-area">
+            <div class="simulador-titulo">
+                <h3>Simulação do Aplicativo</h3>
+                <p>Veja como fica a tela do Solo<span class="destaque">Tec</span> no dispositivo</p>
+            </div>
+
+            <div class="tablet">
+                <div class="tablet-header">
+                    <span>Solo<span class="destaque">Tec</span></span>
+                    <span class="horario" id="horarioReal">--:--:--</span>
+                    <span>100%</span>
+                </div>
+                
+                <div class="app-conteudo">
+                    <div class="app-saudacao">
+                        Olá, <span id="nomeUsuario">Produtor</span>!
+                    </div>
+                    
+                    <div class="status-area">
+                        <div class="status-item verde">
+                            <span>Area 1</span>
+                            <span>Umida (85%)</span>
+                        </div>
+                        <div class="status-item amarelo">
+                            <span>Area 2</span>
+                            <span>Quase seca (45%)</span>
+                        </div>
+                        <div class="status-item vermelho">
+                            <span>Area 3</span>
+                            <span>Seca (20%)</span>
+                        </div>
+                    </div>
+                    
+                    <div class="botoes-app">
+                        <button class="btn-app" id="btnIrrigar">IRRIGAR</button>
+                        <button class="btn-app" id="btnAgendar">AGENDAR</button>
+                        <button class="btn-app" id="btnHistorico">HISTORICO</button>
+                        <button class="btn-app" id="btnGrafico">GRAFICO</button>
+                    </div>
+                    
+                    <div class="mensagem-app" id="mensagemApp">
+                        Clique em um botão para simular uma ação
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn-voltar" onclick="window.close()">FECHAR SIMULADOR</button>
+
+    </div>
+
+    <script src="simulador.js"></script>
+</body>
+</html>
