@@ -80,7 +80,63 @@ Município: Cafelândia - Paraná
 
 ## Referências
 
-Todas as imagens foram retiradas do Google .
+Todas as imagens foram criadas utilizando a plataforma Canva.
+
+# Prompts de IA Utilizados
+
+## Ícone da Lua (tema claro)
+Crie um ícone simples de lua crescente na cor branca, fundo transparente, estilo minimalista, tamanho 32x32 pixels. Salvar como PNG com fundo transparente.
+
+## Ícone do Sol (tema escuro)
+Crie um ícone simples de sol com raios na cor amarela ou dourada, fundo transparente, estilo minimalista, tamanho 32x32 pixels. Salvar como PNG com fundo transparente.
+
+## Logo do SoloTec
+Crie uma logo para um projeto agrícola chamado SoloTec com os seguintes requisitos:
+- Nome: SoloTec com destaque para a palavra Tec
+- Tema: tecnologia, natureza e irrigação inteligente
+- Elementos sugeridos: uma folha ou planta brotando combinada com elementos tecnológicos como circuitos, ondas de sinal ou engrenagens suaves
+- Cores principais: verde musgo e azul acinzentado
+- Estilo: moderno, limpo, profissional, com traços suaves
+- Fundo: transparente
+- Formato: redondo ou quadrado para usar no site e aplicativo
+- Texto: incluir SoloTec de forma legível
+- A logo deve funcionar tanto em fundo claro quanto em fundo escuro
+
+## Monitoramento de Umidade
+Crie uma imagem original para um projeto agrícola mostrando um sensor de umidade no solo com um smartphone ao lado exibindo gráficos. Estilo moderno e educativo. Cores: verde e azul.
+
+## Irrigação Inteligente
+Crie uma imagem original mostrando um sistema de irrigação por gotejamento em uma lavoura, com água sendo aplicada de forma eficiente. Estilo realista e educativo.
+
+## Fertilização do Solo
+Crie uma imagem original mostrando uma mão segurando solo fértil com uma planta brotando. Elementos como N, P, K (nitrogênio, fósforo, potássio) ao redor. Estilo moderno.
+
+## Gráficos Coloridos
+Crie uma imagem original mostrando a tela de um smartphone com um mapa colorido de uma lavoura nas cores verde, amarelo e vermelho. Estilo de interface de aplicativo.
+
+## Economia de Água
+Crie uma imagem original para um projeto agrícola mostrando economia de água. Uma gota d'água sendo economizada com um símbolo de porcentagem 40%. Ao fundo, uma plantação verde e saudável. Estilo moderno, limpo e educativo. Cores: verde e azul.
+
+## Aumento da Produtividade
+Crie uma imagem original para um projeto agrícola mostrando aumento de produtividade. Plantas crescendo fortes e saudáveis, com gráficos de crescimento ascendente. Estilo moderno e positivo. Cores: verde e dourado.
+
+## Controle pelo Smartphone
+Crie uma imagem original para um projeto agrícola mostrando controle pelo smartphone. Uma mão segurando um celular com uma plantação ao fundo. Na tela do celular, ícones de irrigação e gráficos. Estilo tecnológico e moderno.
+
+## Sustentabilidade Ambiental
+Crie uma imagem original para um projeto agrícola mostrando sustentabilidade ambiental. Uma plantação saudável integrada com a natureza, com elementos como água limpa, solo fértil e ar puro. Estilo natural e positivo.
+
+## Alertas em Tempo Real
+Crie uma imagem original para um projeto agrícola mostrando alertas em tempo real. Um smartphone recebendo uma notificação sobre irrigação ou umidade do solo. Estilo tecnológico e funcional.
+
+## Histórico Completo
+Crie uma imagem original para um projeto agrícola mostrando histórico completo de irrigações. Uma tela de smartphone ou tablet exibindo uma lista de registros com datas, horários e durações. Estilo limpo e organizado.
+
+## Versão para Tema Escuro
+Para cada imagem acima, crie também uma versão para tema escuro com fundo verde escuro. Cores: verde claro e tons que contrastem bem no escuro.
+
+## Versão para Tema Escuro
+Para cada imagem acima, crie também uma versão para tema escuro com fundo verde escuro. Cores: verde claro e tons que contrastem bem no escuro.
 
 ## Licença
 
