@@ -74,8 +74,11 @@ O conteúdo do site aborda práticas relacionadas ao equilíbrio entre produçã
 ## Autoria
 
 Autor: Gustavo Henrique da Silva
-Orientador(a): 
+
+Orientador(a): Gabriela Maria Maffi 
+
 Escola: Colégio Estadual do Campo Benjamim Antonio Motter
+
 Município: Cafelândia - Paraná
 
 ## Referências
